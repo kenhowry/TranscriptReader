@@ -1,0 +1,12 @@
+COMN,1012,Speaking on Ideas that Matter,4,A
+MATH,1951,Calculus I,4,A
+PSYC,1001,Intro Psychology,4.5,T
+SOCI,2420,Social Inequality,4,P
+WRIT,1122,Rhetoric and Academic Writing,4,P
+ANTH,1010,Humankind in Context,4,P
+COMP,1201,Introduction to Computer Science,2,A-
+COMP,1351,Introduction to Programming I,3,B+
+MATH,1952,Calculus II,4,C
+PSYC,2031,Introduction to Cognitive Neuroscience,4,B-
+EDPX,2000,Imaging in Emergent Digital Practices,4,F
+COMP,2300,Discrete Structures in Computer Science,4,P
